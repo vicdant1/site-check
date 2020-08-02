@@ -9,11 +9,10 @@
     <title>@vic_dant1 - JV Dantas</title>
 </head>
 <body>
-    <section>
+    <div id="bg_img"></div>
+    <section class="section">
         <div id="img"></div>
-        <p>
-            <div id="row"></div>
-        </p>
+        <hr>
         <div class="cont">
             <p id="hello">Saiba um pouco mais sobre mim...</p>
             <div id="img_div">
@@ -22,7 +21,6 @@
                 <a href="https://twitter.com/vic_dant1"><img id="tt" src="img/TT.png"></a>
             </div>
         </div>
-
     </section>
     <script src="/js/app.js"></script>
 </body>
