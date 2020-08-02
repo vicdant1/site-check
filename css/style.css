@@ -1,0 +1,65 @@
+body{
+    background-image: url("../img/bgc3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.cont{
+    margin: auto;
+    height: 300px;
+    width: 70%;
+    background-color: rgba(0, 0, 0, 0.8);
+    box-shadow: 15px 15px 30px rgba(0, 0, 0, 0.6);
+    border-radius: 15px;
+    padding: 30px;
+}
+
+#img{
+    background-image: url("../img/img-jv.jpg");
+    width: 250px;
+    height: 250px;
+    background-size: cover;
+    border-radius: 300px;
+    margin: auto;
+    padding-bottom: 10px;
+}
+
+#row{
+    height: 4px;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 10px;
+}
+
+#hello{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding-bottom: 40px;
+    font-size: 18pt;
+}
+
+#git{
+    width: 150px;
+    height: 150px;
+    /* padding: 40px; */
+}
+
+#ig{
+    width: 150px;
+    height: 150px;
+    /* padding: 40px; */
+}
+
+#tt{
+    width: 150x;
+    height: 150px;
+    /* padding: 40px; */
+}
+
+#img_div{
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    margin: auto;
+}
